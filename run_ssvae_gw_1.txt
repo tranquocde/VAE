@@ -1,0 +1,12 @@
+{'cw': 100,
+ 'gw': 1,
+ 'iter_max': 50000,
+ 'iter_save': 10000,
+ 'run': 0,
+ 'train': 0}
+Model name: model=ssvae_gw=001_cw=100_run=0000
+Loaded from checkpoints/model=ssvae_gw=001_cw=100_run=0000/model-50000.pt
+********************************************************************************
+CLASSIFICATION EVALUATION ON ENTIRE TEST SET
+********************************************************************************
+Test set classification accuracy: 0.9491000175476074

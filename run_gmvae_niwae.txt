@@ -1,0 +1,11 @@
+{'iter_max': 20000, 'iter_save': 10000, 'k': 500, 'run': 0, 'train': 0, 'z': 10}
+Model name: model=gmvae_z=10_k=500_run=0000
+Loaded from checkpoints/model=gmvae_z=10_k=500_run=0000/model-20000.pt
+********************************************************************************
+LOG-LIKELIHOOD LOWER BOUNDS ON TEST SUBSET
+********************************************************************************
+NELBO: 98.01897430419922. KL: 17.785490036010742. Rec: 80.2334976196289
+Negative IWAE-1: 97.99597930908203
+Negative IWAE-10: 95.34046936035156
+Negative IWAE-100: 94.231201171875
+Negative IWAE-1000: 93.81456756591797
